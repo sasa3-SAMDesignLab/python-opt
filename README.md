@@ -1,4 +1,4 @@
-# python-practise
+# practise-python-opt
 Pythonではじめる数理最適化の学びのためにコードを写経したものです。
 
 URL:
