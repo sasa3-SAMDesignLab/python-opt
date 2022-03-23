@@ -25,4 +25,4 @@ https://www.amazon.co.jp/Python%E3%81%AB%E3%82%88%E3%82%8B%E6%95%B0%E7%90%86%E6%
 
 opt2のフォルダ内容:
 
-1:線形最適化
+1:線形最適化（vpythonは除く）
