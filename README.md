@@ -3,7 +3,7 @@
 開発環境：
 
 Mac Book Air  \
-macOS Montery version 12.3  \ 
+macOS Montery version 12.3  \
 python3.8 
 
 -----------------------------------------------------------------------------------
